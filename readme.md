@@ -6,7 +6,7 @@ LICENSE: [MIT](license.md)
 
 ---
 
-### Содерджание:
+### Содержание:
 1. **[Введение](intro.md)**
 2. **Основные операции**
     * [git config](config.md)
