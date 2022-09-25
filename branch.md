@@ -1,4 +1,4 @@
-[< К содержанию](readme.md)
+[< К содержанию](readme.md#содержание)
 
 # Ветвление
 
@@ -51,4 +51,4 @@
 
 ![Объединение ветвей](https://lms.skillfactory.ru/assets/courseware/v1/a61f7e029e4845dbd8389c21d85eadae/asset-v1:SkillFactory+PHPDEV+2021+type@asset+block/PHP.5.9.2.png "Объединение ветвей")
 
-[< К содержанию](readme.md)
+[< К содержанию](readme.md#содержание)
