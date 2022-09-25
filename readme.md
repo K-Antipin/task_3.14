@@ -21,9 +21,9 @@ LICENSE: [MIT](license.md)
     * [git pull](remote.md/#git-pull)
     * [git push](remote.md/#git-push)
 4. **[Получение данных о состоянии репозитория](status.md/#получение-данных-о-состоянии-репозитория)**
-   1. [git status](status.md/#git-status)
-   2. [git log](status.md/#git-log)
-   3. [git show](status.md/#git-show)
+    * [git status](status.md/#git-status)
+    * [git log](status.md/#git-log)
+    * [git show](status.md/#git-show)
 5. **[Файл *.gitignore*](gitignore.md)**
 6. **[Ветвление](branch.md)**
 7. **[Конфликты](conflict.md)**
